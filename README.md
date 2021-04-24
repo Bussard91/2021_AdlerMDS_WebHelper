@@ -6,4 +6,9 @@ The aim of this app is to combine various calculations from laboratory medicine 
 
 Here is the link zu the "ready-to-use" shinyapps.io-hosted WebApp: https://adlermds.shinyapps.io/AdlerMDS_WebHelper/
 
+```bash
+library(shiny)
+runGitHub("2021_AdlerMDS_WebHelper", "Bussard91", ref = "main")
+```
+
 Here in this repository i provide my R-Code. Criticism and ideas for improvement are always welcome.
