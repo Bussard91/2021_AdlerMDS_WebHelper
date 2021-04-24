@@ -12,4 +12,4 @@ library(shiny)
 runGitHub("2021_AdlerMDS_WebHelper", "Bussard91", ref = "main")
 ```
 
-Here in this repository i provide my R-Code. Criticism and ideas for improvement are always welcome.
+Notice that the package "shiny" has to be installed.
