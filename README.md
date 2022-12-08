@@ -13,3 +13,4 @@ runGitHub("2021_AdlerMDS_WebHelper", "Bussard91", ref = "main")
 ```
 
 Notice that the package "shiny" has to be installed.
+A line I wrote on my local computer
